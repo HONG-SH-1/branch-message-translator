@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.key.json
+service-account*.json
+
+# 제출용: 아래 문서/기록은 워드로 따로 제출하므로 깃 저장소(코드+동영상)에는 올리지 않음
+docs/
+result.txt
